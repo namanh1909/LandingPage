@@ -1,0 +1,426 @@
+Header {
+  height: 80px;
+}
+.container {
+  margin: 0 auto;
+  max-width: 792.86px;
+}
+.ant-layout-header {
+  background-color: white;
+  padding: 0;
+}
+
+.menu-item:hover {
+  text-decoration: none;
+}
+.header {
+  height: 80px;
+}
+.ant-layout-header {
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  font-weight: bold;
+  font-size: 24.1183px;
+  color: #222222;
+  text-align: center;
+}
+.comment {
+  background-color: white;
+}
+.menu {
+  background-color: white;
+}
+.menu-item {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 11.0889px;
+  line-height: 80px;
+  text-decoration: none;
+}
+.menu-item__button {
+  width: 118.51px;
+  height: 31.88px;
+  border: 1.03958px solid #1943ef;
+  box-sizing: border-box;
+  border-radius: 33.9597px;
+  background-color: white;
+}
+.menu {
+  height: 80px;
+  max-width: auto;
+}
+.menu-item__button > span {
+  color: #1943ef;
+  font-size: 11.0889px;
+}
+a:hover {
+  color: #222222;
+  text-decoration: none;
+}
+.banner {
+  background-color: white;
+  
+}
+.banner-h1 {
+  padding-top: 190px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 38px;
+  color: #222222;
+  max-width: 429px;
+}
+.banner-p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.5542px;
+  line-height: 150%;
+  color: #73738d;
+  max-width: 429px;
+}
+.span{
+  display: flex;
+}
+.span span {
+font-weight: 500;
+font-size: 11.0889px;
+color: #73738D;
+}
+.span-banner {
+  padding-left: 30px;
+}
+.span-banner:first-child {
+  padding-left: 0;
+}
+.icon-banner{
+  padding-right: 4px;
+}
+.ant-input-group-wrapper {
+  width: 423.46px;
+}
+.ant-input-search .ant-input-group .ant-input-affix-wrapper:not(:last-child) {
+  position: absolute;
+  width: 423.46px;
+  height: 41.58px;
+  background: #ffffff;
+  border-radius: 33.9597px;
+}
+.ant-input-search
+  > .ant-input-group
+  > .ant-input-group-addon:last-child
+  .ant-input-search-button {
+  border-radius: 33.9597px;
+  width: 155.94px;
+  height: 41.58px;
+}
+.ant-input-affix-wrapper > input.ant-input {
+  font-weight: 500;
+  font-size: 11.0889px;
+  padding-left: 16.63px;
+}
+.ant-btn > span {
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 17px;
+  letter-spacing: 0em;
+}
+.button-banner > span {
+  font-size: 11.0889px;
+  line-height: 41.58px;
+  letter-spacing: 0em;
+}
+.Image-banner {
+  filter: drop-shadow(0px 6.48945px 25.9578px #f2f5fa);
+}
+.ant-tabs-tab-btn {
+  padding-left: 133.76px;
+}
+.ant-tabs-content-holder{
+  padding-top: 42px;
+}
+.menu {
+  padding-top: 120px;
+  padding-bottom: 200px;
+}
+.comment {
+  padding-top: 207px;
+}
+.ant-comment-content-detail p {
+  margin-bottom: inherit;
+  white-space: pre-wrap;
+  font-style: normal;
+  font-size: 11.0889px;
+
+}
+.ant-comment-inner {
+  background: #FFFFFF;
+  box-shadow: 0px 13.8611px 55.4444px #F2F5FA;
+  border-radius: 16.6333px;
+  width: 379.79px;
+height: 66.53px;
+border: 0.5px;
+
+}
+.ant-comment-avatar img {
+  width: 33.27px;
+  height: 33.27px;
+  border-radius: 38.2012px;
+  margin-left: 16.63px;
+}
+.comment-item {
+  padding-bottom: 16.63px;
+}
+.left-comment{
+  padding-left: 41.58px;
+}
+ h3 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24.95px; 
+  color: #222222;
+}
+.left-comment p {
+font-style: normal;
+font-weight: 500;
+font-size: 14.5542px;
+color: #73738D;
+}
+.span-comment{
+  display: flex;
+}
+
+.span-comment-item span {
+font-style: normal;
+font-weight: 500;
+font-size: 11.0889px;
+color: #73738D;
+padding-top: 16.63px;
+}
+.ant-card{
+width: 379.79px !important;
+height: 253.08px;
+background: #FFFFFF;
+box-shadow: 0px 13.8611px 55.4444px #F2F5FA;
+border-radius: 20.7917px;
+}
+.ant-card span {
+  font-style: normal;
+font-weight: 500;
+font-size: 9.70278px;
+
+
+
+color: rgba(34, 34, 34, 0.6);
+}
+.user-span {
+  display: flex;
+
+  padding-bottom: 13px;
+}
+
+textarea{
+   width: 346.53px;
+  height: 81.78px;
+  background: #FBFBFD;
+  border-radius: 5.54444px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 9.70278px;
+  line-height: 180%;
+  padding: 10px 26px 14px 16px;
+  color: rgba(115, 115, 141, 0.8);
+
+}
+.ant-card-body{
+  padding: 8px 16.63px 16.61px 16.63px;
+}
+.ant-card-head-title {
+font-style: normal;
+font-weight: 600;
+font-size: 16.6333px;
+line-height: 20px;
+color: #222222;
+}
+.user-comment-item {
+  padding-left: 16px;
+  display: flex;
+}
+.user-comment-item:first-child {
+  padding: 0;
+}
+.user-comment-item span {
+  font-style: normal;
+font-weight: 500;
+font-size: 11.0889px;
+line-height: 13px;
+color: rgba(34, 34, 34, 0.8);
+}
+.footer-card{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 13px;
+}
+.footercard_button{
+width: 82.43px;
+height: 24.95px;
+background-color: #26C296;
+border-radius: 23.5639px;
+line-height: 9.7px;
+}
+.footercard_button > span {
+
+  font-style: normal;
+  font-weight: 600;
+  font-size: 9.70278px;
+  line-height: 12px;  
+  color: #FFFFFF;
+}
+.row2 {
+  padding-top: 170px;
+}
+.row3 {
+  padding-top: 165px;
+}
+.col2-left p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14.5542px;
+  line-height: 150%;
+  color: #73738D;
+  max-width: 343.06px;
+}
+.row3-left {
+   padding-left: 41.58px;
+}
+.carouselapp {
+  padding-top: 90px;
+  text-align: center;
+  background-color: white;
+}
+.sub-name {
+max-width: 451.87px;
+font-style: normal;
+font-weight: 500;
+font-size: 14.5542px;
+color: #73738D;
+margin: 0 auto;
+}
+.name {
+font-weight: 600;
+font-size: 14.5542px;
+line-height: 17px;
+color: #222222;
+padding-top: 16.63px;
+padding-bottom: 42px;
+
+}
+.slick-active {
+  color: black;
+}
+.ant-carousel .slick-dots li button {
+height: 5.54px;
+background: white;
+border-radius: 47.8208px;
+  display: block;
+  width: 100%;
+  padding: 0;
+  color: #26C296;
+  font-size: 0;
+  background: black;
+  border: 0;
+  outline: none;
+  cursor: pointer;
+  opacity: 0.3;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  
+}
+.ant-carousel .slick-dots li.slick-active button {
+  background: #26C296;
+  opacity: 1;
+}
+.ant-carousel .slick-dots li button {
+  height: 5.54px;
+  background: white;
+  border-radius: 47.8208px;
+  display: block;
+  width: 100%;
+  padding: 0;
+  color: #26C296;
+  font-size: 0;
+  background: black;
+  border: 0;
+  outline: none;
+  cursor: pointer;
+  opacity: 0.3;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.footer__button{
+  background-color: #26C296;
+  width: 155.94px;
+height: 41.58px;
+background: #26C296;
+border-radius: 33.9597px;
+}
+.footer-app {
+background-color: white;
+}
+
+
+.col-top_footerleft {
+  padding-top: 34.65px;
+}
+.col-top_footerleft p {
+font-style: normal;
+font-weight: 500;
+font-size: 11.0889px;
+color: #73738D;
+}
+.col-top_footerright {
+  padding-left: 60px;
+  line-height:123.36px; 
+}
+.Row-top_footer {
+  max-width : 792.86px;
+  Height :123.36px;
+}
+.footer-top{
+  width: 792.86px;
+  height: 123.36px;
+  box-shadow: 0px 13.8611px 55.4444px #F2F5FA;
+  border-radius: 8.31667px;
+}
+li {
+  list-style-type: none;
+}
+h4 {
+font-style: normal;
+font-weight: 600;
+font-size: 16.6333px;
+line-height: 13px;
+}
+.footer-bottom a {
+font-style: normal;
+font-weight: 500;
+font-size: 11.0889px;
+line-height: 13px;
+color: #73738D;
+}
+.under-footer{
+   text-align: center;
+}
+.under-footer p {
+font-style: normal;
+font-weight: 500;
+font-size: 11.0889px;
+line-height: 13px;
+color: #73738D;
+}
+/* card */
+.topcard {
+  display: flex;
+}
